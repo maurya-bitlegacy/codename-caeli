@@ -1,3 +1,3 @@
 # codename-caeli
 
-CS686 Project
+CS685 Project
