@@ -4,4 +4,4 @@ State   Year   Mean-Pollutant-Concentration   z-score   Spot
 
 2. For the year 2014, for each state, this csv file is needed, where City is the top 5 cities of each state with highest mean pollutant concentration in descending order:
 
-State   City   Mean-Pollutant-Concentration
+State   City   Mean-Pollutant-Concentration 
