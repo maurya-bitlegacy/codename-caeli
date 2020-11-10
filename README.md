@@ -7,5 +7,5 @@ CS685 Project log
 3. Organized files --bitchlegacy --03/11/2020 00:52
 4. Added population_2001-2015_code.zip -- Sharvari --03/11/2020
 5. Reorganized population-cleaned and industry-cleaned datasets --bitchlegacy --04/11/2020 20:35
-6. Added States-Neighbors.txt and MapRequirements.txt --bitchlegacy --07/11/2020 00:25
+6. Added MapRequirements.txt --bitchlegacy --07/11/2020 00:25
 7. Added neighbors.csv --- Tamal --- 10/11/2020
