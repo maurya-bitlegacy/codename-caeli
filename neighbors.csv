@@ -1,0 +1,36 @@
+state/ut,neighbors
+Andhra Pradesh,Odisha,Chhattisgarh,Maharashtra,Karnataka,Tamil Nadu
+Arunachal Pradesh,Assam,Nagaland
+Assam,Arunachal Pradesh,Nagaland,Manipur,Mizoram,Tripura,Meghalaya,West Bengal
+Bihar,Uttar Pradesh,Jharkhand,West Bengal
+Chhattisgarh,Uttar Pradesh,Jharkhand,Odisha,Madhya Pradesh,Maharashtra,Andhra Pradesh
+Goa,Maharashtra,Karnataka
+Gujarat,Rajasthan,Madhya Pradesh,Maharashtra,Dadra & Nagar Haveli
+Haryana,Delhi,Uttar Pradesh,Himachal Pradesh,Punjab,Rajasthan,Chandigarh
+Himachal Pradesh,Jammu & Kashmir,Punjab,Haryana,Uttarakhand,Uttar Pradesh
+Jammu & Kashmir,Himachal Pradesh,Punjab
+Jharkhand,Bihar,West Bengal,Odisha,Chhattisgarh,Uttar Pradesh
+Karnataka,Maharashtra,Andhra Pradesh,Tamil Nadu, Kerala,Goa
+Kerala,Karnataka,Tamil Nadu
+Madhya Pradesh,Rajasthan,Uttar Pradesh,Chhattisgarh,Maharashtra,Gujarat
+Maharashtra,Gujarat,Madhya Pradesh,Chhattisgarh,Andhra Pradesh,Karnataka,Goa,Dadra & Nagar Haveli
+Manipur,Nagaland,Mizoram,Assam
+Meghalaya,Assam
+Mizoram,Manipur,Assam,Tripura
+Nagaland,Arunachal Pradesh,Assam,Manipur
+Odisha,West Bengal,Jharkhand,Chhattisgarh,Andhra Pradesh
+Punjab,Jammu & Kashmir,Himachal Pradesh,Haryana,Rajasthan,Chandigarh
+Rajasthan,Punjab,Haryana,Uttar Pradesh,Madhya Pradesh,Gujarat
+Sikkim,West Bengal
+Tamil Nadu,Kerala,Karnataka,Andhra Pradesh,Puducherry
+Tripura,Assam,Mizoram
+Uttarakhand,Himachal Pradesh,Uttar Pradesh
+Uttar Pradesh,Uttarakhand,Himachal Pradesh,Haryana,Rajasthan,Madhya Pradesh,Chhattisgarh,Jharkhand,Bihar,Delhi
+West Bengal,Sikkim,Assam,Bihar,Jharkhand,Odisha
+Andaman & Nicobar Islands,
+Chandigarh,Punjab,Haryana
+Dadra & Nagar Haveli,Gujarat,Maharashtra
+Daman & Diu,
+Delhi,Haryana,Uttar Pradesh
+Lakshadweep,
+Puducherry,Tamil Nadu
