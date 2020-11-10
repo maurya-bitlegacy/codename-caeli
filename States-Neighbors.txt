@@ -26,6 +26,6 @@ Arunachal Pradesh-[Assam, Nagaland]
 Tripura-[Assam, Mizoram]
 Goa-[Maharashtra, Karnataka]
 Dadra & Nagar Haveli-[Guajarat, Maharashtra] 
-Haryana-[Punjab, HP, Uttarakhand, UP, Delhi, Rajasthan]
+Haryana-[Punjab, HP, UP, Delhi, Rajasthan]
 Karnataka-[Maharashtra, Andhra Pradesh, Goa, Tamil Nadu, Kerala]
 
