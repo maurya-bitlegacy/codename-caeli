@@ -9,3 +9,4 @@ CS685 Project log
 5. Reorganized population-cleaned and industry-cleaned datasets --bitchlegacy --04/11/2020 20:35
 6. Added MapRequirements.txt --bitchlegacy --07/11/2020 00:25
 7. Added neighbors.csv --- Tamal --- 10/11/2020
+8. Dropped spm --- Ankita Dey --- 11/11/2020
