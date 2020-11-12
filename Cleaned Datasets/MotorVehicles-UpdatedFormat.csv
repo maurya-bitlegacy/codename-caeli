@@ -1,0 +1,321 @@
+State,Year,Feature
+Andhra Pradesh,2005,6458.0
+Andhra Pradesh,2006,7218.0
+Andhra Pradesh,2007,6367.0
+Andhra Pradesh,2008,7208.0
+Andhra Pradesh,2009,8059.0
+Andhra Pradesh,2010,8923.0
+Andhra Pradesh,2011,10189.0
+Andhra Pradesh,2012,12424.0
+Andhra Pradesh,2013,12662.0
+Andhra Pradesh,2014,14075.0
+Arunachal Pradesh,2005,22
+Arunachal Pradesh,2006,22
+Arunachal Pradesh,2007,22
+Arunachal Pradesh,2008,22
+Arunachal Pradesh,2009,22
+Arunachal Pradesh,2010,22
+Arunachal Pradesh,2011,145
+Arunachal Pradesh,2012,151.0
+Arunachal Pradesh,2013,151
+Arunachal Pradesh,2014,151
+Assam,2005,815
+Assam,2006,914
+Assam,2007,1021
+Assam,2008,1116
+Assam,2009,1235
+Assam,2010,1384
+Assam,2011,1582
+Assam,2012,1807.0
+Assam,2013,1878
+Assam,2014,2217
+Bihar,2005,1352
+Bihar,2006,1432
+Bihar,2007,1577
+Bihar,2008,1739
+Bihar,2009,1960
+Bihar,2010,2357
+Bihar,2011,2673
+Bihar,2012,3113.0
+Bihar,2013,3617
+Bihar,2014,4163
+Chhattisgarh,2005,1375
+Chhattisgarh,2006,1541
+Chhattisgarh,2007,1734
+Chhattisgarh,2008,1935
+Chhattisgarh,2009,2115
+Chhattisgarh,2010,2436
+Chhattisgarh,2011,2766
+Chhattisgarh,2012,3104.0
+Chhattisgarh,2013,3437
+Chhattisgarh,2014,3871
+Goa,2005,482
+Goa,2006,529
+Goa,2007,579
+Goa,2008,624
+Goa,2009,674
+Goa,2010,727
+Goa,2011,790
+Goa,2012,866.0
+Goa,2013,938
+Goa,2014,1009
+Gujarat,2005,7817
+Gujarat,2006,8622
+Gujarat,2007,9497
+Gujarat,2008,10289
+Gujarat,2009,10999
+Gujarat,2010,11873
+Gujarat,2011,12993
+Gujarat,2012,14414.0
+Gujarat,2013,15772
+Gujarat,2014,17092
+Haryana,2005,2854
+Haryana,2006,3087
+Haryana,2007,3528
+Haryana,2008,3973
+Haryana,2009,4425
+Haryana,2010,4792
+Haryana,2011,5377
+Haryana,2012,5978.0
+Haryana,2013,6600
+Haryana,2014,7239
+Himachal Pradesh,2005,301
+Himachal Pradesh,2006,334
+Himachal Pradesh,2007,342
+Himachal Pradesh,2008,371
+Himachal Pradesh,2009,494
+Himachal Pradesh,2010,538
+Himachal Pradesh,2011,622
+Himachal Pradesh,2012,737.0
+Himachal Pradesh,2013,876
+Himachal Pradesh,2014,974
+Jammu & Kashmir,2005,478
+Jammu & Kashmir,2006,524
+Jammu & Kashmir,2007,570
+Jammu & Kashmir,2008,620
+Jammu & Kashmir,2009,668
+Jammu & Kashmir,2010,739
+Jammu & Kashmir,2011,927
+Jammu & Kashmir,2012,917.0
+Jammu & Kashmir,2013,1021
+Jammu & Kashmir,2014,1133
+Jharkhand,2005,1357
+Jharkhand,2006,1505
+Jharkhand,2007,1686
+Jharkhand,2008,1850
+Jharkhand,2009,2038
+Jharkhand,2010,2767
+Jharkhand,2011,3113
+Jharkhand,2012,3158.0
+Jharkhand,2013,3417
+Jharkhand,2014,1719
+Karnataka,2005,5436
+Karnataka,2006,6220
+Karnataka,2007,5486
+Karnataka,2008,6217
+Karnataka,2009,6953
+Karnataka,2010,9044
+Karnataka,2011,9930
+Karnataka,2012,10910.0
+Karnataka,2013,12064
+Karnataka,2014,13335
+Kerala,2005,3122
+Kerala,2006,3559
+Kerala,2007,3957
+Kerala,2008,4430
+Kerala,2009,4860
+Kerala,2010,5398
+Kerala,2011,6072
+Kerala,2012,6893.0
+Kerala,2013,7858
+Kerala,2014,8775
+Madhya Pradesh,2005,4188
+Madhya Pradesh,2006,4609
+Madhya Pradesh,2007,5047
+Madhya Pradesh,2008,5523
+Madhya Pradesh,2009,6011
+Madhya Pradesh,2010,6591
+Madhya Pradesh,2011,7356
+Madhya Pradesh,2012,8144.0
+Madhya Pradesh,2013,8760
+Madhya Pradesh,2014,9722
+Maharashtra,2005,9936
+Maharashtra,2006,10966
+Maharashtra,2007,12171
+Maharashtra,2008,13335
+Maharashtra,2009,14451
+Maharashtra,2010,15768
+Maharashtra,2011,17434
+Maharashtra,2012,19432.0
+Maharashtra,2013,21488
+Maharashtra,2014,23394
+Manipur,2005,114
+Manipur,2006,124
+Manipur,2007,133
+Manipur,2008,147
+Manipur,2009,147
+Manipur,2010,194
+Manipur,2011,207
+Manipur,2012,215.0
+Manipur,2013,296
+Manipur,2014,395
+Meghalaya,2005,92
+Meghalaya,2006,104
+Meghalaya,2007,117
+Meghalaya,2008,128
+Meghalaya,2009,142
+Meghalaya,2010,158
+Meghalaya,2011,176
+Meghalaya,2012,198.0
+Meghalaya,2013,220
+Meghalaya,2014,248
+Mizoram,2005,47
+Mizoram,2006,52
+Mizoram,2007,61
+Mizoram,2008,66
+Mizoram,2009,70
+Mizoram,2010,80
+Mizoram,2011,93
+Mizoram,2012,102.0
+Mizoram,2013,121
+Mizoram,2014,137
+Nagaland,2005,172
+Nagaland,2006,184
+Nagaland,2007,210
+Nagaland,2008,226
+Nagaland,2009,240
+Nagaland,2010,254
+Nagaland,2011,273
+Nagaland,2012,291.0
+Nagaland,2013,311
+Nagaland,2014,318
+Odisha,2005,1715
+Odisha,2006,1932
+Odisha,2007,2148
+Odisha,2008,2370
+Odisha,2009,2607
+Odisha,2010,2932
+Odisha,2011,3338
+Odisha,2012,3759.0
+Odisha,2013,4216
+Odisha,2014,4702
+Punjab,2005,3876
+Punjab,2006,4035
+Punjab,2007,4294
+Punjab,2008,4573
+Punjab,2009,4832
+Punjab,2010,5274
+Punjab,2011,5274
+Punjab,2012,6263.0
+Punjab,2013,6263
+Punjab,2014,6263
+Rajasthan,2005,4261
+Rajasthan,2006,4754
+Rajasthan,2007,5336
+Rajasthan,2008,5902
+Rajasthan,2009,6490
+Rajasthan,2010,7166
+Rajasthan,2011,7986
+Rajasthan,2012,8985.0
+Rajasthan,2013,10072
+Rajasthan,2014,11133
+Sikkim,2005,20
+Sikkim,2006,22
+Sikkim,2007,25
+Sikkim,2008,26
+Sikkim,2009,29
+Sikkim,2010,34
+Sikkim,2011,39
+Sikkim,2012,43.0
+Sikkim,2013,36
+Sikkim,2014,40
+Tamil Nadu,2005,9257
+Tamil Nadu,2006,10054
+Tamil Nadu,2007,10981
+Tamil Nadu,2008,11930
+Tamil Nadu,2009,12891
+Tamil Nadu,2010,14062
+Tamil Nadu,2011,15638
+Tamil Nadu,2012,17412.0
+Tamil Nadu,2013,19232
+Tamil Nadu,2014,20864
+Uttarakhand,2005,573
+Uttarakhand,2006,643
+Uttarakhand,2007,643
+Uttarakhand,2008,731
+Uttarakhand,2009,787
+Uttarakhand,2010,831
+Uttarakhand,2011,997
+Uttarakhand,2012,1244.0
+Uttarakhand,2013,1460
+Uttarakhand,2014,1640
+Uttar Pradesh,2005,7344
+Uttar Pradesh,2006,7989
+Uttar Pradesh,2007,9086
+Uttar Pradesh,2008,9826
+Uttar Pradesh,2009,10779
+Uttar Pradesh,2010,11988
+Uttar Pradesh,2011,13287
+Uttar Pradesh,2012,15445.0
+Uttar Pradesh,2013,17048
+Uttar Pradesh,2014,19115
+West Bengal,2005,2681
+West Bengal,2006,2872
+West Bengal,2007,3198
+West Bengal,2008,2762
+West Bengal,2009,3044
+West Bengal,2010,2747
+West Bengal,2011,3261
+West Bengal,2012,3861.0
+West Bengal,2013,6111
+West Bengal,2014,6745
+Chandigarh,2005,617
+Chandigarh,2006,647
+Chandigarh,2007,678
+Chandigarh,2008,712
+Chandigarh,2009,747
+Chandigarh,2010,949
+Chandigarh,2011,1008
+Chandigarh,2012,1058.0
+Chandigarh,2013,1106
+Chandigarh,2014,631
+Dadra & Nagar Haveli,2005,40
+Dadra & Nagar Haveli,2006,45
+Dadra & Nagar Haveli,2007,51
+Dadra & Nagar Haveli,2008,58
+Dadra & Nagar Haveli,2009,63
+Dadra & Nagar Haveli,2010,69
+Dadra & Nagar Haveli,2011,76
+Dadra & Nagar Haveli,2012,85.0
+Dadra & Nagar Haveli,2013,93
+Dadra & Nagar Haveli,2014,103
+Daman & Diu,2005,51
+Daman & Diu,2006,55
+Daman & Diu,2007,62
+Daman & Diu,2008,68
+Daman & Diu,2009,70
+Daman & Diu,2010,72
+Daman & Diu,2011,78
+Daman & Diu,2012,85.0
+Daman & Diu,2013,92
+Daman & Diu,2014,95
+Delhi,2005,4187
+Delhi,2006,4487
+Delhi,2007,5492
+Delhi,2008,5899
+Delhi,2009,6302
+Delhi,2010,6747
+Delhi,2011,7228
+Delhi,2012,7350.0
+Delhi,2013,7785
+Delhi,2014,8293
+Puducherry,2005,347
+Puducherry,2006,384
+Puducherry,2007,432
+Puducherry,2008,484
+Puducherry,2009,538
+Puducherry,2010,599
+Puducherry,2011,673
+Puducherry,2012,755.0
+Puducherry,2013,700
+Puducherry,2014,751
