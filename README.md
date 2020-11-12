@@ -1,5 +1,5 @@
 # codename-caeli
-CS685 Project log
+CS685 Project log   (Note: Final_Air_Quality_Data.csv has to be used for further computations) 
 
 -----------Mention the changes you've made/files uploaded with your name and date----------------
 1. Added midsem_report.pdf --- Tamal --- 2/11/2020
