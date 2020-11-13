@@ -11,5 +11,6 @@ CS685 Project log   (Note: Final_Air_Quality_Data.csv has to be used for further
 7. Added neighbors.csv --- Tamal --- 10/11/2020
 8. Dropped spm --- Ankita Dey --- 11/11/2020
 9. Added Air quality_using interpolation code & filled_missing_values.csv --- Sharvari Oka--- 12/11/2020
-10. Added Air quality Missing values using neighbor data code & Final_Air_Quality_Data.csv --- Deeksha Idiot Arora --- 12/11/2020
-11. Removed all instances of Tripura, Lakshadweep, Andaman & Nicobar from neighbors.csv ---bitchlegacy ---13/11/2020 19:02
+10. Added Air quality Missing values using neighbor data code & Final_Air_Quality_Data.csv --- Deeksha Arora --- 12/11/2020
+11. Removed all instances of Tripura, Lakshadweep, Andaman & Nicobar from neighbors.csv ---Mr. Stupid ---13/11/2020 19:02
+12. Added Air_quality_mpc_zscore.ipynb, TopSpots.csv, State-Coordinates.csv, Air_Quality_Mpc_zcore.csv, Air_Quality_MapFile.csv--- Deeksha Arora---13/11/2020
