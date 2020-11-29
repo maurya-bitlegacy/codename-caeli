@@ -19,3 +19,4 @@ CS685 Project log   (Note: Final_Air_Quality_Data.csv has to be used for further
 15. Added folder 'Correlation' containing merged population density csv, computed Pearson and Spearman Corr csv, scatter plots,
     and Corr matrix image in png --- Tamal --- 15/11/2020
 16. Added state-Mpc, x and y coordinates in PollutedCities --- Ankita Dey --- 26/11/2020
+17. Added Heatmap and barplots --- Tamal --- 29/11/2020
