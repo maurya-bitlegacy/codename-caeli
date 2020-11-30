@@ -20,3 +20,4 @@ CS685 Project log   (Note: Final_Air_Quality_Data.csv has to be used for further
     and Corr matrix image in png --- Tamal --- 15/11/2020
 16. Added state-Mpc, x and y coordinates in PollutedCities --- Ankita Dey --- 26/11/2020
 17. Added Heatmap and barplots --- Tamal --- 29/11/2020
+18. Added Clustering code and image --- Ankita Dey --- 01/12/2020
