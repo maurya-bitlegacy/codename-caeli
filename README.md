@@ -22,3 +22,4 @@ CS685 Project log   (Note: Final_Air_Quality_Data.csv has to be used for further
 17. Added Heatmap and barplots --- Tamal --- 29/11/2020
 18. Added Clustering code and image --- Ankita Dey --- 01/12/2020
 19. Modified structure of CorrectFormat.ipynb --- Ankita Dey --- 05/12/2020
+20. Added notebooks of maps and html outputs. Added geojson for state boundaries in original datasets --- bitchlegacy ---05/12/2020
