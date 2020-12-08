@@ -1,0 +1,82 @@
+................................................
+	CS685 Data Mining Project
+		Group 21
+   Analysis of pollution levels in India
+................................................
+
+Section 1. Files/Folders included:
+
+1.cleaning
+->Contains DataCleaning.py and can be run by 1.cleaning.sh
+->Performs data cleaning on raw data from the folder datasets
+->Saves generated files in datasets folder
+
+2.zscore
+->Contains Air_quality_mpc_zscore.py and can be run by 2.zscore.sh
+->Uses State-oordinates.csv, Final_Air_Quality_Data.csv and neighbors.csv
+->Generates Zscore_MapFile.csv, TopSpots.csv and Air_Quality_Mpc_zscore.csv
+
+3.chi_square
+->Contains Air_quality_chiscore.py and can be run by 3.chi_square.sh
+->Uses Final_Air_Quality_Data.csv and State-Coordinates.csv
+->Generates Air_Quality_chiscore.csv and ChiScore_MapFile.csv
+
+4.Heatmaps_plots
+->Contains Heatmaps_barplots.py and can be run by 4.Heatmaps_plots.sh
+->Uses MotorVehicles-UpdatedFormat.csv,Industries-UpdatedFormat.csv, Population_density_final.csv and Final_Air_Quality_Data.csv
+->Generates various heatmaps and barplots
+
+5.Clustering
+->Contains ClusteringStates.py and can be run by 5.Clustering.sh
+->Uses Final_Air_Quality_Data.csv
+->Generates clustering outputs ClusterMembers.txt and ClustervsPollutant'sconcentration.png	
+
+6.Correlation
+->Contains Correlation.py and can be run by 6.Correlation.sh
+->Uses Final_Air_Quality_Data.csv, Industries-UpdatedFormat.csv, MotorVehicles-UpdatedFormat.csv, Population_density_final.csv, Pearson_corr.csv and Spearman_corr.csv
+->Generates Correlation_Matrix.png and CorrelationScatterplots.png
+
+7.maps
+->Contains 2014mpc-map-generator.ipynb, chiscore-map-generator.ipynb and zscore-map-generator.ipynb
+->Generates interactive choropleth maps: 2014mpc-map.html, chiscore-map.html and zscore-map.html
+
+datasets:
+->Contains original datasets as well as the cleaned ones
+->All csv outputs are saved here
+.......................................................
+
+Section 2. Python libraries required:
+->numpy
+->pandas
+->bs4
+->xlrd
+->scipy
+->seaborn
+->matplotlib
+->sklearn
+->folium
+->branca
+->os
+->sys
+Each library can be installed using $ pip install <library name>
+........................................................
+
+Section 3. How to run?
+
+-> To run the project from the top, use project.sh
+-> To run each component, use the correspoding shell script mentioned in section 1
+-> To generate the html for interactive choropleth maps, please run the notebooks using Jupyter Notebook
+........................................................
+
+Section 4: Runtime
+
+-> The entire project runs under 1 minute when run from the top using project.sh
+
+@Github link to the project: https://github.com/maurya-bitlegacy/codename-caeli
+@Thank you for reading!
+
+
+
+
+
+
