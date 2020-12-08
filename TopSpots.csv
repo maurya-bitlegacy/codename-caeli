@@ -1,0 +1,21 @@
+Year,spot,State1,State2,State3,State4,State5
+2005,hot,Punjab,Gujarat,Jharkhand,Uttar Pradesh,West Bengal
+2005,cold,Goa,Odisha,Dadra & Nagar Haveli,Bihar,Mizoram
+2006,hot,Punjab,Gujarat,Jharkhand,Uttar Pradesh,Delhi
+2006,cold,Chandigarh,Bihar,Odisha,Goa,Mizoram
+2007,hot,Punjab,Jharkhand,Uttar Pradesh,Delhi,Maharashtra
+2007,cold,Odisha,Goa,Kerala,Mizoram,Dadra & Nagar Haveli
+2008,hot,Punjab,Delhi,Jharkhand,Maharashtra,Uttar Pradesh
+2008,cold,Arunachal Pradesh,Bihar,Chandigarh,Kerala,Mizoram
+2009,hot,Jharkhand,Haryana,West Bengal,Punjab,Maharashtra
+2009,cold,Chandigarh,Kerala,Bihar,Dadra & Nagar Haveli,Mizoram
+2010,hot,Delhi,Punjab,Jharkhand,Tamil Nadu,Maharashtra
+2010,cold,Himachal Pradesh,Chandigarh,Dadra & Nagar Haveli,Kerala,Mizoram
+2011,hot,Delhi,Jharkhand,Punjab,Tamil Nadu,Maharashtra
+2011,cold,Arunachal Pradesh,Dadra & Nagar Haveli,Chandigarh,Kerala,Mizoram
+2012,hot,Delhi,Jharkhand,Maharashtra,Manipur,Punjab
+2012,cold,Kerala,Arunachal Pradesh,Dadra & Nagar Haveli,Mizoram,Chandigarh
+2013,hot,Delhi,West Bengal,Tamil Nadu,Maharashtra,Jharkhand
+2013,cold,Himachal Pradesh,Chandigarh,Mizoram,Dadra & Nagar Haveli,Kerala
+2014,hot,Delhi,Maharashtra,Jharkhand,Nagaland,Rajasthan
+2014,cold,Goa,Kerala,Dadra & Nagar Haveli,Arunachal Pradesh,Mizoram

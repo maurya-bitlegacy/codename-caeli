@@ -11,5 +11,15 @@ CS685 Project log   (Note: Final_Air_Quality_Data.csv has to be used for further
 7. Added neighbors.csv --- Tamal --- 10/11/2020
 8. Dropped spm --- Ankita Dey --- 11/11/2020
 9. Added Air quality_using interpolation code & filled_missing_values.csv --- Sharvari Oka--- 12/11/2020
-10. Added Air quality Missing values using neighbor data code & Final_Air_Quality_Data.csv --- Deeksha Idiot Arora --- 12/11/2020
-11. Removed all instances of Tripura, Lakshadweep, Andaman & Nicobar from neighbors.csv ---bitchlegacy ---13/11/2020 19:02
+10. Added Air quality Missing values using neighbor data code & Final_Air_Quality_Data.csv --- Deeksha Arora --- 12/11/2020
+11. Changed format of Industries and Vehicles csv --- Ankita Dey --- 12/11/2020
+12. Added statewise <=5 most polluted cities and code --- Ankita Dey --- 13/11/2020
+13. Removed all instances of Tripura, Lakshadweep, Andaman & Nicobar from neighbors.csv ---Mr. Stupid ---13/11/2020 19:02
+14. Added Air_quality_mpc_zscore.ipynb, TopSpots.csv, State-Coordinates.csv, Air_Quality_Mpc_zcore.csv, Air_Quality_MapFile.csv--- Deeksha Arora---13/11/2020
+15. Added folder 'Correlation' containing merged population density csv, computed Pearson and Spearman Corr csv, scatter plots,
+    and Corr matrix image in png --- Tamal --- 15/11/2020
+16. Added state-Mpc, x and y coordinates in PollutedCities --- Ankita Dey --- 26/11/2020
+17. Added Heatmap and barplots --- Tamal --- 29/11/2020
+18. Added Clustering code and image --- Ankita Dey --- 01/12/2020
+19. Modified structure of CorrectFormat.ipynb --- Ankita Dey --- 05/12/2020
+20. Added notebooks of maps and html outputs. Added geojson for state boundaries in original datasets --- bitchlegacy ---05/12/2020
