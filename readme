@@ -72,7 +72,11 @@ Section 4: Runtime
 
 -> The entire project runs under 1 minute when run from the top using project.sh
 
-@Github link to the project: https://github.com/maurya-bitlegacy/codename-caeli
+Choropleth maps: 
+https://maurya-bitlegacy.github.io/codename-caeli/Maps/2014mpc-map.html
+https://maurya-bitlegacy.github.io/codename-caeli/Maps/chiscore-map.html
+https://maurya-bitlegacy.github.io/codename-caeli/Maps/zscore-map.html
+
 @Thank you for reading!
 
 
